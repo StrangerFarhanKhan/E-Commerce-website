@@ -1,0 +1,52 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(194, 170, 215) !important;
+}
+.nav{
+    background-color: rgb(104, 104, 217);
+}
+.logo{
+    width: 100px;
+    background-color: rgb(255, 214, 127);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+.icon{
+    width: 50px;
+    padding: 10px;
+}
+
+.slider{
+ width: 100%;
+ min-height: 20% !important;
+}
+
+.Carousel-img{
+    width: 50%;
+
+}
+
+.three-cards{
+    margin: 50px;
+    gap: 20px;
+    border-radius: 10px;
+}
+
+.product-sec{
+    margin: 50px !important;
+}
+
+.product-img{
+    width: 50% !important;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+}
